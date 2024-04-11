@@ -1,0 +1,3 @@
+本文件夹对应存放模型最优权重
+NestedUnet为Unet++
+wds为加入深度监督，wods为没有深度监督
